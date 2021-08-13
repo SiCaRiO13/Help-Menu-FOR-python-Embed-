@@ -1,5 +1,5 @@
 # Help-Menu-FOR-python-Embed-
-#python#
+
 import discord
 from discord import colour
 from discord import embeds
